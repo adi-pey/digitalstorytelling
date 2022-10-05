@@ -1,0 +1,38 @@
+h1 {
+  color: #3f6e69;
+  font-size: 32;
+  font-family: arial;
+  padding: 25px;
+}
+
+p {
+  color: #293c44;
+  font-size: 20;
+  font-family: monospace;
+  padding: 25px;
+}
+
+h2 {
+  color: #103e5e;
+  font-size: 26;
+  font-family: arial;
+  padding: 25px;
+}
+
+body {
+  background-color: #ebe4d9;
+}
+
+img {
+  border: 2px solid #ddb853;
+  width: 25%;
+  height: 25%;
+  margin-left: 25px;
+}
+
+link {
+  color: #3f6e69;
+  font-size: 20;
+  font-family: arial;
+  padding: 25px;
+}
